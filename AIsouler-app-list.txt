@@ -1,0 +1,952 @@
+﻿AIsouler GKD_subscription app list
+Generated from local source: GKD_subscription-main/src/apps
+Total apps: 886
+Migrated apps: 56
+
+Already migrated apps:
+Name	Package	File
+BOSS直聘	com.hpbr.bosszhipin	com.hpbr.bosszhipin.ts
+ES文件浏览器	com.estrongs.android.pop	com.estrongs.android.pop.ts
+Keep	com.gotokeep.keep	com.gotokeep.keep.ts
+OPPO 健康	com.heytap.health	com.heytap.health.ts
+OPPO/一加应用安装器	com.oplus.appdetail	com.oplus.appdetail.ts
+OPPO软件商店	com.heytap.market	com.heytap.market.ts
+OPPO商城	com.oppo.store	com.oppo.store.ts
+OPPO手机管家	com.coloros.phonemanager	com.coloros.phonemanager.ts
+QQ	com.tencent.mobileqq	com.tencent.mobileqq.ts
+QQ音乐	com.tencent.qqmusic	com.tencent.qqmusic.ts
+QQ邮箱	com.tencent.androidqqmail	com.tencent.androidqqmail.ts
+WPS	cn.wps.moffice_eng	cn.wps.moffice_eng.ts
+WPS Office Lite	cn.wps.moffice_i18n	cn.wps.moffice_i18n.ts
+百度网盘	com.baidu.netdisk	com.baidu.netdisk.ts
+哔哩哔哩	tv.danmaku.bili	tv.danmaku.bili.ts
+波点音乐	cn.wenyu.bodian	cn.wenyu.bodian.ts
+菜鸟	com.cainiao.wireless	com.cainiao.wireless.ts
+得物	com.shizhuang.duapp	com.shizhuang.duapp.ts
+滴滴出行	com.sdu.didi.psnger	com.sdu.didi.psnger.ts
+钉钉	com.alibaba.android.rimet	com.alibaba.android.rimet.ts
+懂车帝	com.ss.android.auto	com.ss.android.auto.ts
+抖音	com.ss.android.ugc.aweme	com.ss.android.ugc.aweme.ts
+高德地图	com.autonavi.minimap	com.autonavi.minimap.ts
+欢律	com.heytap.headset	com.heytap.headset.ts
+剪映	com.lemon.lv	com.lemon.lv.ts
+交管12123	com.tmri.app.main	com.tmri.app.main.ts
+金山文档	cn.wps.yun	cn.wps.yun.ts
+京东	com.jingdong.app.mall	com.jingdong.app.mall.ts
+酷狗音乐	com.kugou.android	com.kugou.android.ts
+快手	com.smile.gifmaker	com.smile.gifmaker.ts
+美团	com.sankuai.meituan	com.sankuai.meituan.ts
+拼多多	com.xunmeng.pinduoduo	com.xunmeng.pinduoduo.ts
+淘宝	com.taobao.taobao	com.taobao.taobao.ts
+腾讯会议	com.tencent.wemeet.app	com.tencent.wemeet.app.ts
+天气	com.coloros.weather2	com.coloros.weather2.ts
+铁路12306	com.chinarailway.globalticketing	com.chinarailway.globalticketing.ts
+铁路12306	com.MobileTicket	com.MobileTicket.ts
+同花顺	com.hexin.plat.android	com.hexin.plat.android.ts
+完美校园	com.newcapec.mobile.ncp	com.newcapec.mobile.ncp.ts
+网易云音乐	com.netease.cloudmusic	com.netease.cloudmusic.ts
+微博	com.sina.weibo	com.sina.weibo.ts
+微信	com.tencent.mm	com.tencent.mm.ts
+闲鱼	com.taobao.idlefish	com.taobao.idlefish.ts
+相册	com.coloros.gallery3d	com.coloros.gallery3d.ts
+向日葵远程控制	com.oray.sunlogin	com.oray.sunlogin.ts
+小红书	com.xingin.xhs	com.xingin.xhs.ts
+音乐	com.heytap.music	com.heytap.music.ts
+阅读	com.heytap.reader	com.heytap.reader.ts
+云服务	com.heytap.cloud	com.heytap.cloud.ts
+支付宝	com.eg.android.AlipayGphone	com.eg.android.AlipayGphone.ts
+知乎	com.zhihu.android	com.zhihu.android.ts
+智行火车票	com.yipiao	com.yipiao.ts
+中国电信	com.ct.client	com.ct.client.ts
+中国联通	com.sinovatech.unicom.ui	com.sinovatech.unicom.ui.ts
+主题商店	com.heytap.themestore	com.heytap.themestore.ts
+最右	cn.xiaochuankeji.tieba	cn.xiaochuankeji.tieba.ts
+
+All source apps:
+Name	Package	File	Migrated
+10000社区	dxwt.questionnaire.ui	dxwt.questionnaire.ui.ts	
+115生活	com.ylmf.androidclient	com.ylmf.androidclient.ts	
+123云盘	com.mfcloudcalculate.networkdisk	com.mfcloudcalculate.networkdisk.ts	
+172号卡	com.canghai.haoka	com.canghai.haoka.ts	
+19楼	com.nineteenlou.nineteenlou	com.nineteenlou.nineteenlou.ts	
+1号会员店	com.thestore.main	com.thestore.main.ts	
+2345天气王	com.tianqi2345	com.tianqi2345.ts	
+360家庭防火墙	com.qihoo.srouter.n300	com.qihoo.srouter.n300.ts	
+360浏览器	com.qihoo.browser	com.qihoo.browser.ts	
+360摄像机	com.qihoo.camera	com.qihoo.camera.ts	
+360智慧生活	com.qihoo.smart	com.qihoo.smart.ts	
+365时政	cn.net.shizheng.study	cn.net.shizheng.study.ts	
+4399游戏盒	com.m4399.gamecenter	com.m4399.gamecenter.ts	
+51CTO	com.cto51.student	com.cto51.student.ts	
+5EPlay	com.fiveplay	com.fiveplay.ts	
+777影视	com.changyou.app.qi	com.changyou.app.qi.ts	
+7天澳門統考	com.daysko.safp	com.daysko.safp.ts	
+99手游加速器	com.excean.na	com.excean.na.ts	
+AC匿名版	com.dfsly.bbs	com.dfsly.bbs.ts	
+AfuseKt	com.attempt.afusekt	com.attempt.afusekt.ts	
+AH视频	com.chunqiu.ah	com.chunqiu.ah.ts	
+AK加速器	com.akspeed.jiasuqi.gameboost	com.akspeed.jiasuqi.gameboost.ts	
+Android 系统	android	android.ts	
+Android 系统文件选择器	com.google.android.documentsui	com.google.android.documentsui.ts	
+APKPure	com.apkpure.aegon	com.apkpure.aegon.ts	
+AppShare	info.muge.appshare	info.muge.appshare.ts	
+Battery Guru	com.paget96.batteryguru	com.paget96.batteryguru.ts	
+bilibili	com.bilibili.app.in	com.bilibili.app.in.ts	
+Bitcoin Mining	bitcoin.minning.com	bitcoin.minning.com.ts	
+biubiu加速器	com.njh.biubiu	com.njh.biubiu.ts	
+Blued	com.soft.blued	com.soft.blued.ts	
+Blued极速版	com.danlan.xiaolan	com.danlan.xiaolan.ts	
+BOSS直聘	com.hpbr.bosszhipin	com.hpbr.bosszhipin.ts	yes
+CamHipro	com.hichip.campro	com.hichip.campro.ts	
+CC加速器	cn.ccspeed	cn.ccspeed.ts	
+Cellular-Z	make.more.r2d2.cellular_z	make.more.r2d2.cellular_z.ts	
+CFMOTO	com.lxt.cfmoto	com.lxt.cfmoto.ts	
+ChatGPT	com.openai.chatgpt	com.openai.chatgpt.ts	
+Chrome	com.android.chrome	com.android.chrome.ts	
+Cimoc	com.cimoc.haleydu	com.cimoc.haleydu.ts	
+Clash Meta for Android	com.github.metacubex.clash.meta	com.github.metacubex.clash.meta.ts	
+CliCli动漫	com.viva.time_todo	com.viva.time_todo.ts	
+Clousx6	com.example.robortx.clousx6F	com.example.robortx.clousx6F.ts	
+ClrvAI	com.panaceasoft.pswallpaper	com.panaceasoft.pswallpaper.ts	
+CSDN	net.csdn.csdnplus	net.csdn.csdnplus.ts	
+CTM Buddy	com.ctm	com.ctm.ts	
+cTrader	com.spotware.ct	com.spotware.ct.ts	
+Cubox	pro.cubox.androidapp	pro.cubox.androidapp.ts	
+C语言编译器	coding.yu.ccompiler.new	coding.yu.ccompiler.new.ts	
+DeepSeek	com.deepseek.chat	com.deepseek.chat.ts	
+ECOVACS HOME	com.eco.global.app	com.eco.global.app.ts	
+Edge	com.microsoft.emmx	com.microsoft.emmx.ts	
+ES文件浏览器	com.estrongs.android.pop	com.estrongs.android.pop.ts	yes
+ETC车宝	com.uroad.carclub	com.uroad.carclub.ts	
+Eyeplus	com.closeli.ipc	com.closeli.ipc.ts	
+e充电	com.sgcc.evs.echarge	com.sgcc.evs.echarge.ts	
+e高速	com.sdhs.easy.high.road	com.sdhs.easy.high.road.ts	
+Facebook	com.facebook.katana	com.facebook.katana.ts	
+Fantuan Delivery	com.ca.fantuan.customer	com.ca.fantuan.customer.ts	
+Fa米家	com.x2era.xcloud.app	com.x2era.xcloud.app.ts	
+fiil+	com.fengeek.f002	com.fengeek.f002.ts	
+Fing	com.overlook.android.fing	com.overlook.android.fing.ts	
+flomo浮墨笔记	com.flomo.app	com.flomo.app.ts	
+FlowMark	com.fewwind.flowmark	com.fewwind.flowmark.ts	
+Gmail	com.google.android.gm	com.google.android.gm.ts	
+GoFun出行	com.gvsoft.gofun	com.gvsoft.gofun.ts	
+Google Play 服务	com.google.android.gms	com.google.android.gms.ts	
+Google Play 商店	com.android.vending	com.android.vending.ts	
+Google翻译	com.google.android.apps.translate	com.google.android.apps.translate.ts	
+GPS工具箱	com.leduoworks.gpstoolbox	com.leduoworks.gpstoolbox.ts	
+Gspace	com.gspace.android	com.gspace.android.ts	
+HMS Core	com.huawei.hwid	com.huawei.hwid.ts	
+Hydro Coach	com.codium.hydrocoach	com.codium.hydrocoach.ts	
+HypeRate	io.hyperate.hyperateandroid	io.hyperate.hyperateandroid.ts	
+i 主题	com.bbk.theme	com.bbk.theme.ts	
+icash Pay	tw.com.icash.a.icashpay	tw.com.icash.a.icashpay.ts	
+iGPSPORT	com.igpsport.igpsportandroid	com.igpsport.igpsportandroid.ts	
+Instagram	com.instagram.android	com.instagram.android.ts	
+IT之家	com.ruanmei.ithome	com.ruanmei.ithome.ts	
+i茅台	com.moutai.mall	com.moutai.mall.ts	
+i深圳	com.pingan.smt	com.pingan.smt.ts	
+JavDB	xxx.pornhub.fuck	xxx.pornhub.fuck.ts	
+JMComic2	com.jiaohua_browser	com.jiaohua_browser.ts	
+JMComic3	com.example.app	com.example.app.ts	
+Jump	com.vgjump.jump	com.vgjump.jump.ts	
+kds宽带山	net.pchome.kds	net.pchome.kds.ts	
+Keep	com.gotokeep.keep	com.gotokeep.keep.ts	yes
+KMB . LWB	com.kmb.app1933	com.kmb.app1933.ts	
+LIBVIO	lab.vie.two	lab.vie.two.ts	
+LOFTER	com.lofter.android	com.lofter.android.ts	
+Luka阅读养成	ai.ling.luka.app	ai.ling.luka.app.ts	
+mFood	com.m.mfood	com.m.mfood.ts	
+MINO 4K	com.qjy.youqulife.io	com.qjy.youqulife.io.ts	
+MT管理器	bin.mt.plus	bin.mt.plus.ts	
+MT管理器Pro	bin.mt.plus.canary	bin.mt.plus.canary.ts	
+Mubeat	com.vlending.apps.mubeat	com.vlending.apps.mubeat.ts	
+MX 播放器	com.mxtech.videoplayer.ad	com.mxtech.videoplayer.ad.ts	
+MyComic	com.qc.mycomic	com.qc.mycomic.ts	
+Nekogram	tw.nekomimi.nekogram	tw.nekomimi.nekogram.ts	
+NGA玩家社区	gov.pianzong.androidnga	gov.pianzong.androidnga.ts	
+NP管理器	com.wn.app.np	com.wn.app.np.ts	
+NP管理器	npgl.jsitcx.xlpqi	npgl.jsitcx.xlpqi.ts	
+OmoFun	com.banshenghuo.mobile.ofdm	com.banshenghuo.mobile.ofdm.ts	
+OMOFUN	com.cyl.musiccy.ou	com.cyl.musiccy.ou.ts	
+OMOFUN	com.ksf.yyx	com.ksf.yyx.ts	
+OmoFun	com.xifeng.fun	com.xifeng.fun.ts	
+OnStream	com.maertsno.m	com.maertsno.m.ts	
+Oopz	com.weilaishanhai.oopz	com.weilaishanhai.oopz.ts	
+OPENPOINT	tw.net.pic.m.openpoint	tw.net.pic.m.openpoint.ts	
+OPPO 健康	com.heytap.health	com.heytap.health.ts	yes
+OPPO/一加应用安装器	com.oplus.appdetail	com.oplus.appdetail.ts	yes
+OPPO软件商店	com.heytap.market	com.heytap.market.ts	yes
+OPPO商城	com.oppo.store	com.oppo.store.ts	yes
+OPPO手机管家	com.coloros.phonemanager	com.coloros.phonemanager.ts	yes
+OurPlay	com.excean.gspace	com.excean.gspace.ts	
+PicACG	com.picacomic.fregata	com.picacomic.fregata.ts	
+PICO	com.picovr.assistantphone	com.picovr.assistantphone.ts	
+PokeHub	com.mi.poketrade	com.mi.poketrade.ts	
+PU口袋校园	com.xyhui	com.xyhui.ts	
+QCY	com.qcymall.earphonesetup	com.qcymall.earphonesetup.ts	
+QQ	com.tencent.mobileqq	com.tencent.mobileqq.ts	yes
+QQ浏览器	com.tencent.mtt	com.tencent.mtt.ts	
+QQ音乐	com.tencent.qqmusic	com.tencent.qqmusic.ts	yes
+QQ音乐车机版	com.tencent.qqmusiccar	com.tencent.qqmusiccar.ts	
+QQ邮箱	com.tencent.androidqqmail	com.tencent.androidqqmail.ts	yes
+QQ阅读	com.qq.reader	com.qq.reader.ts	
+QuickEdit	com.rhmsoft.edit	com.rhmsoft.edit.ts	
+RAR	com.rarlab.rar	com.rarlab.rar.ts	
+RayLink	com.example.raylink_flutter	com.example.raylink_flutter.ts	
+ReadEra	org.readera	org.readera.ts	
+realme社区	com.realmecomm.app	com.realmecomm.app.ts	
+Reddit	com.reddit.frontpage	com.reddit.frontpage.ts	
+RJmao	com.zhiwei.rjm	com.zhiwei.rjm.ts	
+Rotation	com.pranavpandey.rotation	com.pranavpandey.rotation.ts	
+RQrun	cn.runningquotient.rq	cn.runningquotient.rq.ts	
+Samsung Music	com.sec.android.app.music	com.sec.android.app.music.ts	
+Sankaku Black	com.sankakucomplex.channel.black	com.sankakucomplex.channel.black.ts	
+SecurityAnalysis	com.realme.securitycheck	com.realme.securitycheck.ts	
+Showcaller	com.allinone.callerid	com.allinone.callerid.ts	
+Soul	cn.soulapp.android	cn.soulapp.android.ts	
+SpeedTest	org.zwanoo.android.speedtest	org.zwanoo.android.speedtest.ts	
+Spotify	com.spotify.music	com.spotify.music.ts	
+SteamPY	com.steampy.app	com.steampy.app.ts	
+TapTap	com.taptap	com.taptap.ts	
+Telegram	org.telegram.messenger	org.telegram.messenger.ts	
+Telegram	org.telegram.messenger.web	org.telegram.messenger.web.ts	
+TeraBox	com.dubox.drive	com.dubox.drive.ts	
+TextNow	com.enflick.android.TextNow	com.enflick.android.TextNow.ts	
+TikTok	com.zhiliaoapp.musically	com.zhiliaoapp.musically.ts	
+TIM	com.tencent.tim	com.tencent.tim.ts	
+ToDesk	youqu.android.todesk	youqu.android.todesk.ts	
+TradingView	com.tradingview.tradingviewapp	com.tradingview.tradingviewapp.ts	
+TwiTake	downloadtwittervideo.twitterdownloader.twittervideodownloader.twittersaver	downloadtwittervideo.twitterdownloader.twittervideodownloader.twittersaver.ts	
+UC浏览器	com.UCMobile	com.UCMobile.ts	
+UPUPOO动态壁纸	com.upupoo.apu.mobile	com.upupoo.apu.mobile.ts	
+UU远程	com.netease.uuremote	com.netease.uuremote.ts	
+VIVO 电子书	com.chaozh.iReader	com.chaozh.iReader.ts	
+vivo 官网	com.vivo.space	com.vivo.space.ts	
+vivo浏览器	com.vivo.browser	com.vivo.browser.ts	
+vivo应用商店	com.bbk.appstore	com.bbk.appstore.ts	
+VMOS Pro	com.vmos.pro	com.vmos.pro.ts	
+Voice	com.google.android.apps.googlevoice	com.google.android.apps.googlevoice.ts	
+WakeUp课程表	com.suda.yzune.wakeupschedule	com.suda.yzune.wakeupschedule.ts	
+Warplane Inc. Online	com.DL.war.planes.inc.online.bomber.fighter.aircraft.ww2	com.DL.war.planes.inc.online.bomber.fighter.aircraft.ww2.ts	
+WE Learn	com.sflep.course	com.sflep.course.ts	
+WeiboBig	com.sina.weibocare	com.sina.weibocare.ts	
+WiFi万能钥匙	com.snda.wifilocating	com.snda.wifilocating.ts	
+WiFi万能钥匙	com.wifitutu	com.wifitutu.ts	
+WPS	cn.wps.moffice_eng	cn.wps.moffice_eng.ts	yes
+WPS Office Lite	cn.wps.moffice_i18n	cn.wps.moffice_i18n.ts	yes
+X(推特)	com.twitter.android	com.twitter.android.ts	
+Xfinity	com.xfinity.digitalhome	com.xfinity.digitalhome.ts	
+YouTube	app.revanced.android.youtube	app.revanced.android.youtube.ts	
+YouTube	by.green.tuber	by.green.tuber.ts	
+youtube	com.google.android.youtube	com.google.android.youtube.ts	
+YouTube Music	app.revanced.android.apps.youtube.music	app.revanced.android.apps.youtube.music.ts	
+YouTube Music	com.google.android.apps.youtube.music	com.google.android.apps.youtube.music.ts	
+YouTube RVX	anddea.youtube	anddea.youtube.ts	
+ZAKER	com.myzaker.ZAKER_Phone	com.myzaker.ZAKER_Phone.ts	
+Zepp Life	com.xiaomi.hm.health	com.xiaomi.hm.health.ts	
+ZK助手	com.custom.zktimehelp	com.custom.zktimehelp.ts	
+ZzzFun	org.daimhim.zzzfun	org.daimhim.zzzfun.ts	
+ギリギリ愛	com.jxhy.kuwan.gga	com.jxhy.kuwan.gga.ts	
+阿里巴巴	com.alibaba.wireless	com.alibaba.wireless.ts	
+阿里云	com.alibaba.aliyun	com.alibaba.aliyun.ts	
+阿里云盘	com.alicloud.databox	com.alicloud.databox.ts	
+爱其意	com.taitedi.hdd.ayi	com.taitedi.hdd.ayi.ts	
+爱奇艺	com.qiyi.video	com.qiyi.video.ts	
+爱奇艺PAD	com.qiyi.video.pad	com.qiyi.video.pad.ts	
+爱奇艺极速版	com.qiyi.video.lite	com.qiyi.video.lite.ts	
+爱奇艺体育	com.ssports.mobile.video	com.ssports.mobile.video.ts	
+爱企查	com.baidu.xin.aiqicha	com.baidu.xin.aiqicha.ts	
+爱山东	com.hanweb.android.sdzwfw.activity	com.hanweb.android.sdzwfw.activity.ts	
+爱玩机工具箱	com.byyoung.setting	com.byyoung.setting.ts	
+爱吾游戏宝盒	com.aiwu.market	com.aiwu.market.ts	
+安吉星	com.shanghaionstar	com.shanghaionstar.ts	
+安全服务/小米手机管家	com.miui.securitycenter	com.miui.securitycenter.ts	
+安兔兔评测	com.antutu.ABenchMark	com.antutu.ABenchMark.ts	
+安心记加班	com.julanling.app	com.julanling.app.ts	
+安心加速器	com.at.a552360580763717	com.at.a552360580763717.ts	
+安易加速器	com.giraffe	com.giraffe.ts	
+澳覓	com.mem.MacaoLife	com.mem.MacaoLife.ts	
+巴哈姆特	tw.com.gamer.android.activecenter	tw.com.gamer.android.activecenter.ts	
+霸天安云	com.generalcomp.batian	com.generalcomp.batian.ts	
+白描	com.uzero.baimiao	com.uzero.baimiao.ts	
+百词斩	com.jiongji.andriod.card	com.jiongji.andriod.card.ts	
+百度	com.baidu.searchbox	com.baidu.searchbox.ts	
+百度百科	com.baidu.baike	com.baidu.baike.ts	
+百度地图	com.baidu.BaiduMap	com.baidu.BaiduMap.ts	
+百度输入法	com.baidu.input	com.baidu.input.ts	
+百度贴吧	com.baidu.tieba	com.baidu.tieba.ts	
+百度网盘	com.baidu.netdisk	com.baidu.netdisk.ts	yes
+百度网盘-三星版本	com.baidu.netdisk.samsung	com.baidu.netdisk.samsung.ts	
+百分网游戏盒子	com.byfen.market	com.byfen.market.ts	
+班级小管家	com.banjixiaoguanjia.app	com.banjixiaoguanjia.app.ts	
+薄荷健康	com.boohee.one	com.boohee.one.ts	
+宝宝生活记录	com.bluemobile.flutterbabylife	com.bluemobile.flutterbabylife.ts	
+宝宝树孕育	com.babytree.apps.pregnancy	com.babytree.apps.pregnancy.ts	
+北京一卡通	cn.com.bmac.nfc	cn.com.bmac.nfc.ts	
+倍思	com.baseus.intelligent	com.baseus.intelligent.ts	
+比亚迪王朝	com.byd.aeri.caranywhere	com.byd.aeri.caranywhere.ts	
+比翼多开	com.svm.hbyy	com.svm.hbyy.ts	
+币安	com.binance.dev	com.binance.dev.ts	
+必剪	com.bilibili.studio	com.bilibili.studio.ts	
+哔哩哔哩	tv.danmaku.bili	tv.danmaku.bili.ts	yes
+哔哩哔哩HD	tv.danmaku.bilibilihd	tv.danmaku.bilibilihd.ts	
+哔哩发评反诈	icu.freedomIntrovert.biliSendCommAntifraud	icu.freedomIntrovert.biliSendCommAntifraud.ts	
+表盘自定义工具	tech.pingx.watchface	tech.pingx.watchface.ts	
+波点音乐	cn.wenyu.bodian	cn.wenyu.bodian.ts	yes
+不背单词	cn.com.langeasy.LangEasyLexis	cn.com.langeasy.LangEasyLexis.ts	
+不厌书法	com.buyanchuantong.buyanshufa	com.buyanchuantong.buyanshufa.ts	
+布丁扫描	com.wibo.bigbang.ocr	com.wibo.bigbang.ocr.ts	
+布蕾4K	com.wn.app.bl	com.wn.app.bl.ts	
+步道乐跑	com.lptiyu.tanke	com.lptiyu.tanke.ts	
+财联社	com.lanjinger.choiassociatedpress	com.lanjinger.choiassociatedpress.ts	
+彩虹多多	com.ddyc.lotterytool	com.ddyc.lotterytool.ts	
+彩云天气	com.nowcasting.activity	com.nowcasting.activity.ts	
+菜鸟	com.cainiao.wireless	com.cainiao.wireless.ts	yes
+畅听FM	io.microshow.fm	io.microshow.fm.ts	
+超级课程表	com.xtuone.android.syllabus	com.xtuone.android.syllabus.ts	
+车e兴	com.anshibo.activity	com.anshibo.activity.ts	
+车来了	com.ygkj.chelaile.standard	com.ygkj.chelaile.standard.ts	
+车旺大卡	com.vehicles.activities	com.vehicles.activities.ts	
+车学堂	cn.com.drivedu.chexuetang	cn.com.drivedu.chexuetang.ts	
+虫虫助手	com.lion.market	com.lion.market.ts	
+出口成章	com.sainti.eduread	com.sainti.eduread.ts	
+初音社	mikuclub.app	mikuclub.app.ts	
+楚税通	com.neusoft.tax	com.neusoft.tax.ts	
+春木漫画	com.galaxy.qbyd	com.galaxy.qbyd.ts	
+春雨医生	me.chunyu.ChunyuDoctor	me.chunyu.ChunyuDoctor.ts	
+纯纯打码	me.drakeet.puremosaic	me.drakeet.puremosaic.ts	
+次元城动画	com.yaxisvip.pubgtool.iueg	com.yaxisvip.pubgtool.iueg.ts	
+次元城动画	net.duohuo.cyc	net.duohuo.cyc.ts	
+次元城动漫	com.jarworld.bleach.bvn.sjm.cyc	com.jarworld.bleach.bvn.sjm.cyc.ts	
+刺猬猫阅读	com.kuangxiangciweimao.novel	com.kuangxiangciweimao.novel.ts	
+大茶肆	cisdom.com.bigteaapp	cisdom.com.bigteaapp.ts	
+大连交通e出行	com.dlmetro.app	com.dlmetro.app.ts	
+大麦	cn.damai	cn.damai.ts	
+大师兄影视	com.zhiyin.qingdan.dashixiong	com.zhiyin.qingdan.dashixiong.ts	
+大淘客联盟	com.dataoke.union	com.dataoke.union.ts	
+大学搜题酱	com.zmzx.college.search	com.zmzx.college.search.ts	
+大姨妈	com.yoloho.dayima	com.yoloho.dayima.ts	
+大众点评	com.dianping.v1	com.dianping.v1.ts	
+呆萌价	com.lxkj.dmhw	com.lxkj.dmhw.ts	
+倒计日	com.zhizhou.days	com.zhizhou.days.ts	
+得间免费小说	com.chaozh.iReader.dj	com.chaozh.iReader.dj.ts	
+得物	com.shizhuang.duapp	com.shizhuang.duapp.ts	yes
+灯塔加速器	com.v2ray.bizer	com.v2ray.bizer.ts	
+滴宠生活	com.mxchip.petmarvel	com.mxchip.petmarvel.ts	
+滴滴车主	com.sdu.didi.gsui	com.sdu.didi.gsui.ts	
+滴滴出行	com.sdu.didi.psnger	com.sdu.didi.psnger.ts	yes
+点心云	com.dianxinai.mobile	com.dianxinai.mobile.ts	
+电池容量检测管理	com.zlfcapp.batterymanager	com.zlfcapp.batterymanager.ts	
+电话	com.android.incallui	com.android.incallui.ts	
+电子邮件	com.android.email	com.android.email.ts	
+丁香园	cn.dxy.idxyer	cn.dxy.idxyer.ts	
+叮当快药	com.ddsy.songyao	com.ddsy.songyao.ts	
+钉钉	com.alibaba.android.rimet	com.alibaba.android.rimet.ts	yes
+东方财富	com.eastmoney.android.berlin	com.eastmoney.android.berlin.ts	
+东莞通	com.futurefleet.dongguantongbus.ui.dg	com.futurefleet.dongguantongbus.ui.dg.ts	
+懂车帝	com.ss.android.auto	com.ss.android.auto.ts	yes
+懂球帝	com.dongqiudi.news	com.dongqiudi.news.ts	
+动卡空间	com.citiccard.mobilebank	com.citiccard.mobilebank.ts	
+动漫共和国	com.mfhd.ygj.p3	com.mfhd.ygj.p3.ts	
+动漫共和国	com.shizi.tool.p3	com.shizi.tool.p3.ts	
+动漫之家	com.dmzj.manhua	com.dmzj.manhua.ts	
+动漫之家社区	com.dmzjsq.manhua	com.dmzjsq.manhua.ts	
+動畫瘋	tw.com.gamer.android.animad	tw.com.gamer.android.animad.ts	
+抖音	com.ss.android.ugc.aweme	com.ss.android.ugc.aweme.ts	yes
+抖音	com.ss.android.ugc.aweme.mobile	com.ss.android.ugc.aweme.mobile.ts	
+抖音极速版	com.ss.android.ugc.aweme.lite	com.ss.android.ugc.aweme.lite.ts	
+抖音精选	com.ss.android.yumme.video	com.ss.android.yumme.video.ts	
+斗鱼	air.tv.douyu.android	air.tv.douyu.android.ts	
+豆瓣	com.douban.frodo	com.douban.frodo.ts	
+毒霸姬	com.cf.dubaji	com.cf.dubaji.ts	
+堆糖	com.duitang.main	com.duitang.main.ts	
+多点	com.wm.dmall	com.wm.dmall.ts	
+多看	com.duokan.reader	com.duokan.reader.ts	
+多屏互动	com.tnscreen.main	com.tnscreen.main.ts	
+多系统工具箱	com.example.ourom	com.example.ourom.ts	
+饿了么	me.ele	me.ele.ts	
+鄂汇办	cn.cty.hbzw	cn.cty.hbzw.ts	
+儿歌多多	com.duoduo.child.story	com.duoduo.child.story.ts	
+二柄	com.diershoubing.erbing	com.diershoubing.erbing.ts	
+发现精彩	com.cs_credit_bank	com.cs_credit_bank.ts	
+番茄免费小说	com.dragon.read	com.dragon.read.ts	
+番茄音乐（原畅听音乐）	com.xs.fm.lite	com.xs.fm.lite.ts	
+番喜视频	com.oidalmn.donrv	com.oidalmn.donrv.ts	
+番喜视频	com.syjc.app	com.syjc.app.ts	
+番喜视频	com.upxjwb.xrq	com.upxjwb.xrq.ts	
+返利	com.fanli.android.apps	com.fanli.android.apps.ts	
+飞客	com.ideal.flyerteacafes	com.ideal.flyerteacafes.ts	
+飞猫管家	com.zy.flt_yishang	com.zy.flt_yishang.ts	
+飞鸟听书	cn.ms.pages	cn.ms.pages.ts	
+飞书	com.ss.android.lark	com.ss.android.lark.ts	
+飞韵听书	com.vo.icea	com.vo.icea.ts	
+翡翠视频	com.feicui.vdhelper	com.feicui.vdhelper.ts	
+纷玩岛	cn.com.livelab	cn.com.livelab.ts	
+丰巢	com.fcbox.hiveconsumer	com.fcbox.hiveconsumer.ts	
+丰巢管家	com.fcbox.hivebox	com.fcbox.hivebox.ts	
+丰声	com.sfexpress.sfim	com.sfexpress.sfim.ts	
+风筝影评	com.fzfengzheng.fzboyp	com.fzfengzheng.fzboyp.ts	
+凤凰新闻	com.ifeng.news2	com.ifeng.news2.ts	
+负一屏	com.hihonor.hiboard	com.hihonor.hiboard.ts	
+富民银行	com.fbank.mobile	com.fbank.mobile.ts	
+高德地图	com.autonavi.minimap	com.autonavi.minimap.ts	yes
+高佣联盟	com.shangfang.gylm	com.shangfang.gylm.ts	
+个人图书馆	com.doc360.client	com.doc360.client.ts	
+工程相机	com.xpx365.projphoto	com.xpx365.projphoto.ts	
+公交实时定位	com.cdxzy.gjssdw	com.cdxzy.gjssdw.ts	
+公考雷达	com.maidu.gkld	com.maidu.gkld.ts	
+咕咚	com.codoon.gps	com.codoon.gps.ts	
+呱呱天气	com.qingwatq.weather	com.qingwatq.weather.ts	
+古诗文网	org.gushiwen.gushiwen	org.gushiwen.gushiwen.ts	
+古文岛	com.guwendao.gwd	com.guwendao.gwd.ts	
+谷歌相册	com.google.android.apps.photos	com.google.android.apps.photos.ts	
+观星	com.x.istar	com.x.istar.ts	
+光大银行	com.cebbank.mobile.cemb	com.cebbank.mobile.cemb.ts	
+光速虚拟机	com.vphonegaga.titan	com.vphonegaga.titan.ts	
+广东税务	com.example.servyouappzhuhai	com.example.servyouappzhuhai.ts	
+国铁吉讯	com.crgt.ilife	com.crgt.ilife.ts	
+果冻宝盒	com.guodongbaohe.app	com.guodongbaohe.app.ts	
+哈啰	com.jingyao.easybike	com.jingyao.easybike.ts	
+海尔智家	com.haier.uhome.uplus	com.haier.uhome.uplus.ts	
+海南航空	com.rytong.hnair	com.rytong.hnair.ts	
+海鸥加速器	tool.seagull.v	tool.seagull.v.ts	
+海雀	com.alcidae.smarthome	com.alcidae.smarthome.ts	
+海星体育	com.haixing.phonelive	com.haixing.phonelive.ts	
+韩小圈	com.babycloud.hanju	com.babycloud.hanju.ts	
+杭州公共交通	com.dtdream.publictransit	com.dtdream.publictransit.ts	
+杭州市民卡	com.smk	com.smk.ts	
+杭州银行	cn.com.hzb.mobilebank.per	cn.com.hzb.mobilebank.per.ts	
+航旅纵横	com.umetrip.android.msky.app	com.umetrip.android.msky.app.ts	
+好游快爆	com.xmcy.hykb	com.xmcy.hykb.ts	
+和包	com.cmcc.hebao	com.cmcc.hebao.ts	
+盒马	com.wudaokou.hippo	com.wudaokou.hippo.ts	
+黑阈	me.piebridge.brevent	me.piebridge.brevent.ts	
+恒大智慧社区	com.hd.smartVillage	com.hd.smartVillage.ts	
+红手指云手机	com.redfinger.app	com.redfinger.app.ts	
+猴子分身	cn.chuci.and.wkfenshen	cn.chuci.and.wkfenshen.ts	
+虎扑	com.hupu.games	com.hupu.games.ts	
+虎牙直播	com.duowan.kiwi	com.duowan.kiwi.ts	
+花小猪打车	com.huaxiaozhu.rider	com.huaxiaozhu.rider.ts	
+华尔街见闻	com.wallstreetcn.news	com.wallstreetcn.news.ts	
+华图在线	com.huatu.handheld_huatu	com.huatu.handheld_huatu.ts	
+华为浏览器	com.huawei.browser	com.huawei.browser.ts	
+华为钱包	com.huawei.wallet	com.huawei.wallet.ts	
+华为视频	com.huawei.himovie	com.huawei.himovie.ts	
+华为天气	com.huawei.android.totemweather	com.huawei.android.totemweather.ts	
+华为音乐	com.android.mediacenter	com.android.mediacenter.ts	
+华为音乐	com.huawei.music	com.huawei.music.ts	
+华为应用市场	com.huawei.appmarket	com.huawei.appmarket.ts	
+华为阅读	com.huawei.hwread.dz	com.huawei.hwread.dz.ts	
+华为运动健康	com.huawei.health	com.huawei.health.ts	
+华为主题	com.huawei.android.thememanager	com.huawei.android.thememanager.ts	
+欢律	com.heytap.headset	com.heytap.headset.ts	yes
+汇率速查	com.zhima.currency	com.zhima.currency.ts	
+会计云课堂	com.dongao.kaoqian.phone	com.dongao.kaoqian.phone.ts	
+极光下载器	com.aurora_tec.downloader	com.aurora_tec.downloader.ts	
+加班	com.xishang.jihua	com.xishang.jihua.ts	
+驾考宝典	com.handsgo.jiakao.android	com.handsgo.jiakao.android.ts	
+驾校一点通	com.jxedt	com.jxedt.ts	
+煎蛋	com.danielstudio.app.wowtu	com.danielstudio.app.wowtu.ts	
+剪映	com.lemon.lv	com.lemon.lv.ts	yes
+简单搜索	com.baidu.searchcraft	com.baidu.searchcraft.ts	
+简书	com.jianshu.haruki	com.jianshu.haruki.ts	
+简讯	com.tipsoon.android	com.tipsoon.android.ts	
+匠多多师傅版	com.jdd.newjdd.app	com.jdd.newjdd.app.ts	
+交管12123	com.tmri.app.main	com.tmri.app.main.ts	yes
+交通银行	com.bankcomm.Bankcomm	com.bankcomm.Bankcomm.ts	
+街猫	com.hello.pet	com.hello.pet.ts	
+解压专家	com.fileunzip.zxwknight	com.fileunzip.zxwknight.ts	
+今日水印相机	camera.timestamp.mark.watermark	camera.timestamp.mark.watermark.ts	
+今日头条	com.ss.android.article.news	com.ss.android.article.news.ts	
+今日校园	com.wisedu.cpdaily	com.wisedu.cpdaily.ts	
+金山文档	cn.wps.yun	cn.wps.yun.ts	yes
+金十数据	com.jin10	com.jin10.ts	
+京东	com.jingdong.app.mall	com.jingdong.app.mall.ts	yes
+京东到家	com.jingdong.pdj	com.jingdong.pdj.ts	
+京东读书	com.jd.app.reader	com.jd.app.reader.ts	
+京东金融	com.jd.jrapp	com.jd.jrapp.ts	
+京东养车	com.jdcar.jch	com.jdcar.jch.ts	
+京东云无线宝	com.jdcloud.mt.smartrouter	com.jdcloud.mt.smartrouter.ts	
+京粉	com.jd.jxj	com.jd.jxj.ts	
+京喜	com.jd.pingou	com.jd.pingou.ts	
+京喜特价	com.jd.jdlite	com.jd.jdlite.ts	
+囧次元	com.llmm.huiyuanuxiang	com.llmm.huiyuanuxiang.ts	
+囧次元	com.tingfeng.tool	com.tingfeng.tool.ts	
+囧次元	com.viva.note	com.viva.note.ts	
+剧多多	com.juduoduo.app	com.juduoduo.app.ts	
+剧兔	com.example.yr	com.example.yr.ts	
+开发助手	cn.trinea.android.developertools	cn.trinea.android.developertools.ts	
+看护家	com.nursinghome.monitor	com.nursinghome.monitor.ts	
+看剧	com.bx.game.dgg	com.bx.game.dgg.ts	
+考试宝	com.kaoshibaodian.app	com.kaoshibaodian.app.ts	
+拷貝漫畫	com.copymanga.app	com.copymanga.app.ts	
+可可影视	com.keke.ysh1.tz08051h	com.keke.ysh1.tz08051h.ts	
+可可影视	com.kk.ysk3.tz12063k	com.kk.ysk3.tz12063k.ts	
+库街区	com.kurogame.kjq	com.kurogame.kjq.ts	
+酷安	com.coolapk.market	com.coolapk.market.ts	
+酷狗概念版	com.kugou.android.lite	com.kugou.android.lite.ts	
+酷狗音乐	com.kugou.android	com.kugou.android.ts	yes
+酷我音乐	cn.kuwo.player	cn.kuwo.player.ts	
+夸克浏览器	com.quark.browser	com.quark.browser.ts	
+快看漫画	com.kuaikan.comic	com.kuaikan.comic.ts	
+快科技	com.kkeji.news.client	com.kkeji.news.client.ts	
+快连 VPN	world.letsgo.booster.android.pro	world.letsgo.booster.android.pro.ts	
+快手	com.smile.gifmaker	com.smile.gifmaker.ts	yes
+快手极速版	com.kuaishou.nebula	com.kuaishou.nebula.ts	
+快牙	com.dewmobile.kuaiya	com.dewmobile.kuaiya.ts	
+岚图汽车	com.voyah.fassistant	com.voyah.fassistant.ts	
+蓝岛	com.loyea.adnmb	com.loyea.adnmb.ts	
+懒懒视频	com.lanlanys.app	com.lanlanys.app.ts	
+懒人听书	bubei.tingshu	bubei.tingshu.ts	
+乐橙	com.mm.android.lc	com.mm.android.lc.ts	
+乐看视频	com.zhl.bmi	com.zhl.bmi.ts	
+乐校通	client.android.yixiaotong	client.android.yixiaotong.ts	
+雷神加速器	com.nn.accelerator.box	com.nn.accelerator.box.ts	
+联合早报	com.zb.sph.zaobaosingapore	com.zb.sph.zaobaosingapore.ts	
+联通视频彩铃	com.iflytek.womusicclient	com.iflytek.womusicclient.ts	
+联通云盘	com.chinaunicom.bol.cloudapp	com.chinaunicom.bol.cloudapp.ts	
+联想浏览器HD	com.lenovo.browser.hd	com.lenovo.browser.hd.ts	
+联想应用中心	com.lenovo.leos.appstore	com.lenovo.leos.appstore.ts	
+两步路户外助手	com.lolaage.tbulu.tools	com.lolaage.tbulu.tools.ts	
+邻里邦	cn.timesneighborhood.app.c	cn.timesneighborhood.app.c.ts	
+聆听音乐	com.yfoo.listen	com.yfoo.listen.ts	
+六只脚	com.topgether.sixfoot	com.topgether.sixfoot.ts	
+录音机	com.android.soundrecorder	com.android.soundrecorder.ts	
+绿洲	com.sina.oasis	com.sina.oasis.ts	
+麻雀省钱	com.maque.app	com.maque.app.ts	
+码上行	cn.com.thit.wxmetro	cn.com.thit.wxmetro.ts	
+蚂蚁加速器	com.android.tnaant	com.android.tnaant.ts	
+买单吧	com.bankcomm.maidanba	com.bankcomm.maidanba.ts	
+麦当劳	com.mcdonalds.gma.cn	com.mcdonalds.gma.cn.ts	
+漫画人极速版	com.jisu.manhua	com.jisu.manhua.ts	
+漫天星	ltd.sky.okay.cn	ltd.sky.okay.cn.ts	
+慢慢买	com.manmanbuy.bijia	com.manmanbuy.bijia.ts	
+芒果TV	com.hunantv.imgo.activity	com.hunantv.imgo.activity.ts	
+猫眼	com.sankuai.movie	com.sankuai.movie.ts	
+每日赛车	com.romielf.mrsc	com.romielf.mrsc.ts	
+每日英语听力	com.eusoft.ting.en	com.eusoft.ting.en.ts	
+每日瑜伽	com.dailyyoga.inc	com.dailyyoga.inc.ts	
+美图秀秀	com.mt.mtxx.mtxx	com.mt.mtxx.mtxx.ts	
+美团	com.sankuai.meituan	com.sankuai.meituan.ts	yes
+美团外卖	com.sankuai.meituan.takeoutnew	com.sankuai.meituan.takeoutnew.ts	
+美团众包	com.sankuai.meituan.dispatch.crowdsource	com.sankuai.meituan.dispatch.crowdsource.ts	
+美柚	com.lingan.seeyou	com.lingan.seeyou.ts	
+美之图	com.mmzztt.app	com.mmzztt.app.ts	
+萌妹	com.jc.avatar.mm	com.jc.avatar.mm.ts	
+咪咕快游	cn.emagsoftware.gamehall	cn.emagsoftware.gamehall.ts	
+咪咕视频	com.cmcc.cmvideo	com.cmcc.cmvideo.ts	
+咪咕音乐	cmccwm.mobilemusic	cmccwm.mobilemusic.ts	
+米家	com.xiaomi.smarthome	com.xiaomi.smarthome.ts	
+米游社	com.mihoyo.hyperion	com.mihoyo.hyperion.ts	
+蜜雪冰城	com.mxbc.mxsa	com.mxbc.mxsa.ts	
+蜜雪冰城鸿蒙版	com.mxbc.ohsa	com.mxbc.ohsa.ts	
+蜜源	com.jf.my	com.jf.my.ts	
+喵次元	com.sjm.zhuanzhuan.mcy	com.sjm.zhuanzhuan.mcy.ts	
+喵趣漫画	com.paokeji.yiqu	com.paokeji.yiqu.ts	
+喵物次元	com.sjm.xiaodesecond.mw	com.sjm.xiaodesecond.mw.ts	
+摩点	com.modian.app	com.modian.app.ts	
+摩托范	com.jdd.motorfans	com.jdd.motorfans.ts	
+魔音MORIN	com.feiyu.morin	com.feiyu.morin.ts	
+暮瑟	com.maxhom.weibu	com.maxhom.weibu.ts	
+南方航空	com.csair.mbp	com.csair.mbp.ts	
+南网在线	com.csg.palmhall	com.csg.palmhall.ts	
+柠檬解析	com.xhgd.jx	com.xhgd.jx.ts	
+柠檬听书	com.rocoplayer.app.nm	com.rocoplayer.app.nm.ts	
+牛牛视频	com.schunshang.bij.niuniu	com.schunshang.bij.niuniu.ts	
+欧乐影院	com.xiaohu.olevodmobile	com.xiaohu.olevodmobile.ts	
+胖乖生活	com.qiekj.user	com.qiekj.user.ts	
+澎湃新闻	com.wondertek.paper	com.wondertek.paper.ts	
+皮皮搞笑	cn.xiaochuankeji.zuiyouLite	cn.xiaochuankeji.zuiyouLite.ts	
+皮皮喵	com.gentle.ppcat	com.gentle.ppcat.ts	
+皮皮虾	com.sup.android.superb	com.sup.android.superb.ts	
+拼多多	com.xunmeng.pinduoduo	com.xunmeng.pinduoduo.ts	yes
+浦大喜奔	com.spdbccc.app	com.spdbccc.app.ts	
+浦发银行	cn.com.spdb.mobilebank.per	cn.com.spdb.mobilebank.per.ts	
+七猫免费小说	com.kmxs.reader	com.kmxs.reader.ts	
+七鲜	com.xstore.sevenfresh	com.xstore.sevenfresh.ts	
+奇妙应用	com.magicalstory.AppStore	com.magicalstory.AppStore.ts	
+企查查	com.android.icredit	com.android.icredit.ts	
+企业微信	com.tencent.wework	com.tencent.wework.ts	
+起点读书	com.qidian.QDReader	com.qidian.QDReader.ts	
+汽车之家	com.cubic.autohome	com.cubic.autohome.ts	
+汽水音乐	com.luna.music	com.luna.music.ts	
+前程无忧51Job	com.job.android	com.job.android.ts	
+钱包	com.finshell.wallet	com.finshell.wallet.ts	
+钱包	com.mipay.wallet	com.mipay.wallet.ts	
+钱包	com.vivo.wallet	com.vivo.wallet.ts	
+亲宝宝	com.dw.btime	com.dw.btime.ts	
+亲邻开门	com.qinlin.edoor	com.qinlin.edoor.ts	
+青创网	com.m17qcc.mm	com.m17qcc.mm.ts	
+青岛公交查询	com.qingdaonews.bus	com.qingdaonews.bus.ts	
+青藤之恋	com.wepie.ivy	com.wepie.ivy.ts	
+轻松阅	io.sbyd.app	io.sbyd.app.ts	
+蜻蜓FM	fm.qingting.qtradio	fm.qingting.qtradio.ts	
+蜻蜓点金	zhongxinjiantou.szkingdom.android.newphone	zhongxinjiantou.szkingdom.android.newphone.ts	
+曲奇云盘	com.quqi.quqioffice	com.quqi.quqioffice.ts	
+去哪儿旅行	com.Qunar	com.Qunar.ts	
+趣智校园	com.klcxkj.zqxy	com.klcxkj.zqxy.ts	
+权限管理服务	com.lbe.security.miui	com.lbe.security.miui.ts	
+权限控制器	com.android.permissioncontroller	com.android.permissioncontroller.ts	
+全民K歌	com.tencent.karaoke	com.tencent.karaoke.ts	
+全民泡泡超人	com.tencent.tmgp.kgame.ppcr	com.tencent.tmgp.kgame.ppcr.ts	
+全能计算器	com.jincheng.supercaculator	com.jincheng.supercaculator.ts	
+全球购骑士特权	com.black.unique	com.black.unique.ts	
+全球上网	com.miui.virtualsim	com.miui.virtualsim.ts	
+全球网测	com.cnspeedtest.globalspeed	com.cnspeedtest.globalspeed.ts	
+全知识	com.allhistory.dls.marble	com.allhistory.dls.marble.ts	
+热剧猫	com.tuying.kuimg.rjm	com.tuying.kuimg.rjm.ts	
+人民日报	com.facetech.konking	com.facetech.konking.ts	
+人民日报	com.peopledailychina.activity	com.peopledailychina.activity.ts	
+人民日报海外版	com.lcworld.haiwainet	com.lcworld.haiwainet.ts	
+人人视频	com.example.pptv	com.example.pptv.ts	
+人卫	com.pmph.irenwei	com.pmph.irenwei.ts	
+荣耀快服务	com.hihonor.servicecenter	com.hihonor.servicecenter.ts	
+荣耀亲选	cn.honor.qinxuan	cn.honor.qinxuan.ts	
+荣耀商城	com.hihonor.vmall	com.hihonor.vmall.ts	
+荣耀天气	com.hihonor.android.totemweather	com.hihonor.android.totemweather.ts	
+荣耀音乐	com.hihonor.cloudmusic	com.hihonor.cloudmusic.ts	
+荣耀应用市场	com.hihonor.appmarket	com.hihonor.appmarket.ts	
+荣耀运动健康	com.hihonor.health	com.hihonor.health.ts	
+荣耀智慧空间	com.hihonor.magichome	com.hihonor.magichome.ts	
+软件包安装程序	com.android.packageinstaller	com.android.packageinstaller.ts	
+软件包安装程序	com.google.android.packageinstaller	com.google.android.packageinstaller.ts	
+软件包安装程序	com.samsung.android.packageinstaller	com.samsung.android.packageinstaller.ts	
+瑞幸咖啡	com.lucky.luckyclient	com.lucky.luckyclient.ts	
+三星商城	com.jv.samsungeshop	com.jv.samsungeshop.ts	
+三星生活助手	com.samsung.android.app.sreminder	com.samsung.android.app.sreminder.ts	
+三星阅读	com.mci.smagazine	com.mci.smagazine.ts	
+扫描全能王	com.intsig.camscanner	com.intsig.camscanner.ts	
+鲨鱼记账	com.shark.jizhang	com.shark.jizhang.ts	
+山姆会员商店	cn.samsclub.app	cn.samsclub.app.ts	
+闪动校园	com.huachenjie.shandong_school	com.huachenjie.shandong_school.ts	
+上海公交	com.sh.gj	com.sh.gj.ts	
+上汽大众	com.svw.sc.mos	com.svw.sc.mos.ts	
+少年梦阅读	com.shaoniandream	com.shaoniandream.ts	
+设备信息	com.liuzh.deviceinfo	com.liuzh.deviceinfo.ts	
+深(新)度搜索	com.bz.yilianlife.sd	com.bz.yilianlife.sd.ts	
+什么值得买	com.smzdm.client.android	com.smzdm.client.android.ts	
+生活服务	com.huawei.lives	com.huawei.lives.ts	
+十六番旅行	com.fan.app	com.fan.app.ts	
+石墨文档	chuxin.shimo.shimowendang	chuxin.shimo.shimowendang.ts	
+识货	com.hupu.shihuo	com.hupu.shihuo.ts	
+实用大师	com.practical.master.toolsme	com.practical.master.toolsme.ts	
+实用工具箱	com.hj119.sygjx	com.hj119.sygjx.ts	
+视趣	com.sqsp.movie	com.sqsp.movie.ts	
+手机电视高清直播	com.zbx.ct.tvzhibo	com.zbx.ct.tvzhibo.ts	
+手机天猫	com.tmall.wireless	com.tmall.wireless.ts	
+手机知网	com.cnki.client	com.cnki.client.ts	
+书法字典大全	com.zivn.cloudbrush3	com.zivn.cloudbrush3.ts	
+书旗小说	com.shuqi.controller	com.shuqi.controller.ts	
+数独	com.wedobest.shudu	com.wedobest.shudu.ts	
+数字人民币	cn.gov.pbc.dcep	cn.gov.pbc.dcep.ts	
+水果派	com.oneshareclap.malaysian	com.oneshareclap.malaysian.ts	
+水果派	com.ruYUVE.bgGRHf	com.ruYUVE.bgGRHf.ts	
+水果派	com.simplesecurity.english	com.simplesecurity.english.ts	
+顺丰速运	com.sf.activity	com.sf.activity.ts	
+顺易充	com.longshine.nanwang.electric.charge	com.longshine.nanwang.electric.charge.ts	
+四川航空	com.bw30.zsch	com.bw30.zsch.ts	
+搜狗浏览器极速版	sogou.mobile.explorer	sogou.mobile.explorer.ts	
+搜狗输入法	com.sohu.inputmethod.sogou	com.sohu.inputmethod.sogou.ts	
+搜狐视频	com.sohu.sohuvideo	com.sohu.sohuvideo.ts	
+搜索	com.android.quicksearchbox	com.android.quicksearchbox.ts	
+搜图神器	com.example.administrator.searchpicturetool	com.example.administrator.searchpicturetool.ts	
+苏打校园	com.sodalife.sodax	com.sodalife.sodax.ts	
+素博影院	com.sobo.app	com.sobo.app.ts	
+速搜视频	com.jiutian.jiutianapp.sss	com.jiutian.jiutianapp.sss.ts	
+速映影院	com.duoduo.cimoc.su	com.duoduo.cimoc.su.ts	
+随便扫	com.jim.qrcode	com.jim.qrcode.ts	
+随身行	com.wenhua.bamboo	com.wenhua.bamboo.ts	
+钛马星	com.tima.carnet.m.main	com.tima.carnet.m.main.ts	
+泰剧兔	com.viva.todo	com.viva.todo.ts	
+探探	com.p1.mobile.putong	com.p1.mobile.putong.ts	
+糖豆	com.bokecc.dance	com.bokecc.dance.ts	
+糖心Vlog	com.flutter3.ctangxin.vf0egg	com.flutter3.ctangxin.vf0egg.ts	
+淘宝	com.taobao.taobao	com.taobao.taobao.ts	yes
+淘宝Lite	com.taobao.htao.android	com.taobao.htao.android.ts	
+淘特	com.taobao.litetao	com.taobao.litetao.ts	
+特狗APP	com.yunxiang.wuyu	com.yunxiang.wuyu.ts	
+腾讯动漫	com.qq.ac.android	com.qq.ac.android.ts	
+腾讯会议	com.tencent.wemeet.app	com.tencent.wemeet.app.ts	yes
+腾讯视频	com.tencent.qqlive	com.tencent.qqlive.ts	
+腾讯手游加速器	com.tencent.cmocmna	com.tencent.cmocmna.ts	
+腾讯体育	com.tencent.qqsports	com.tencent.qqsports.ts	
+腾讯微云	com.qq.qcloud	com.qq.qcloud.ts	
+腾讯文档	com.tencent.docs	com.tencent.docs.ts	
+腾讯新闻	com.tencent.news	com.tencent.news.ts	
+天府通	com.chinarainbow.tft	com.chinarainbow.tft.ts	
+天猫精灵	com.alibaba.ailabs.tg	com.alibaba.ailabs.tg.ts	
+天猫校园	com.tmall.campus.and	com.tmall.campus.and.ts	
+天气	com.coloros.weather2	com.coloros.weather2.ts	yes
+天天基金	com.eastmoney.android.fund	com.eastmoney.android.fund.ts	
+天天视频	com.myapp.app.xaoorti	com.myapp.app.xaoorti.ts	
+天天跳绳	com.gkid.crazyrope	com.gkid.crazyrope.ts	
+天翼生活	com.ataaw.tianyi	com.ataaw.tianyi.ts	
+天翼云盘	com.cn21.ecloud	com.cn21.ecloud.ts	
+甜糖	com.tt.turbo	com.tt.turbo.ts	
+贴吧极速版	com.baidu.tieba_mini	com.baidu.tieba_mini.ts	
+贴吧一键签到大师	com.baidutieba.davy	com.baidutieba.davy.ts	
+铁路12306	com.chinarailway.globalticketing	com.chinarailway.globalticketing.ts	yes
+铁路12306	com.MobileTicket	com.MobileTicket.ts	yes
+铁塔换电	com.chinatower.tthd	com.chinatower.tthd.ts	
+通通锁	com.tongtongsuo.app	com.tongtongsuo.app.ts	
+通讯录与拨号	com.android.contacts	com.android.contacts.ts	
+同程旅行	com.tongcheng.android	com.tongcheng.android.ts	
+同花顺	com.hexin.plat.android	com.hexin.plat.android.ts	yes
+图凌	com.chan.cwallpaper	com.chan.cwallpaper.ts	
+图图影视	com.jsguohua.youquanmall.tt	com.jsguohua.youquanmall.tt.ts	
+途虎养车	cn.TuHu.android	cn.TuHu.android.ts	
+推栏	com.seasun.tech.woh.jx3companion	com.seasun.tech.woh.jx3companion.ts	
+挖财记账	com.wacai365	com.wacai365.ts	
+歪麦霸王餐	com.waimaiii.waimaiii	com.waimaiii.waimaiii.ts	
+外星人加速器	com.etalien.booster	com.etalien.booster.ts	
+完美世界电竞	com.pwrd.steam.esports	com.pwrd.steam.esports.ts	
+完美校园	com.newcapec.mobile.ncp	com.newcapec.mobile.ncp.ts	yes
+万能小组件 Top Widgets	com.growing.topwidgets	com.growing.topwidgets.ts	
+万能遥控	com.duokan.phone.remotecontroller	com.duokan.phone.remotecontroller.ts	
+万能钥匙	com.wifi.masterkey.lite	com.wifi.masterkey.lite.ts	
+万年历	com.youloft.calendar	com.youloft.calendar.ts	
+网上国网	com.sgcc.wsgw.cn	com.sgcc.wsgw.cn.ts	
+网速管家极速版	cn.speedtest.lite	cn.speedtest.lite.ts	
+网心云	com.onethingcloud.android	com.onethingcloud.android.ts	
+网易大神	com.netease.gl	com.netease.gl.ts	
+网易将军令	com.netease.mkey	com.netease.mkey.ts	
+网易新闻	com.netease.newsreader.activity	com.netease.newsreader.activity.ts	
+网易严选	com.netease.yanxuan	com.netease.yanxuan.ts	
+网易邮箱	com.netease.mobimail	com.netease.mobimail.ts	
+网易邮箱大师	com.netease.mail	com.netease.mail.ts	
+网易有道词典	com.youdao.dict	com.youdao.dict.ts	
+网易云音乐	com.netease.cloudmusic	com.netease.cloudmusic.ts	yes
+微博	com.sina.weibo	com.sina.weibo.ts	yes
+微博极速版	com.sina.weibolite	com.sina.weibolite.ts	
+微博轻享版	com.weico.international	com.weico.international.ts	
+微店	com.koudai.weidian.buyer	com.koudai.weidian.buyer.ts	
+微拾	com.pleasure.trace_wechat	com.pleasure.trace_wechat.ts	
+微信	com.tencent.mm	com.tencent.mm.ts	yes
+微信读书	com.tencent.weread	com.tencent.weread.ts	
+微众银行	com.webank.wemoney	com.webank.wemoney.ts	
+维护大师	com.example.maintenancemaster	com.example.maintenancemaster.ts	
+文件	com.android.documentsui	com.android.documentsui.ts	
+文心一言	com.baidu.newapp	com.baidu.newapp.ts	
+问小白	com.yuanshi.wenxiaobai	com.yuanshi.wenxiaobai.ts	
+问真八字排盘	com.wzwh.bzpaipan	com.wzwh.bzpaipan.ts	
+我爱卡	com.woaika.kashen	com.woaika.kashen.ts	
+我的荣耀	com.hihonor.phoneservice	com.hihonor.phoneservice.ts	
+我的听书	com.github.eprendre.tingshu	com.github.eprendre.tingshu.ts	
+无界趣连	com.wujie.connect	com.wujie.connect.ts	
+无线魔盒	cn.com.ruijie.magicbox	cn.com.ruijie.magicbox.ts	
+无忧行	com.cmi.jegotrip	com.cmi.jegotrip.ts	
+五寸方	com.hxzd.wcf	com.hxzd.wcf.ts	
+西瓜视频	com.ss.android.article.video	com.ss.android.article.video.ts	
+希望谷	com.xwg.cc	com.xwg.cc.ts	
+息壤阅读	com.readunion.ireader	com.readunion.ireader.ts	
+稀饭动漫	com.xfani.app	com.xfani.app.ts	
+稀土掘金	com.daimajia.gold	com.daimajia.gold.ts	
+喜马拉雅	com.ximalaya.ting.android	com.ximalaya.ting.android.ts	
+喜马拉雅极速版	com.ximalaya.ting.lite	com.ximalaya.ting.lite.ts	
+系统服务组件	com.miui.securityadd	com.miui.securityadd.ts	
+系统更新	com.android.updater	com.android.updater.ts	
+系统界面	com.android.systemui	com.android.systemui.ts	
+下厨房	com.xiachufang	com.xiachufang.ts	
+下载工具箱	com.wan.tools	com.wan.tools.ts	
+下载管理	com.android.providers.downloads.ui	com.android.providers.downloads.ui.ts	
+先锋鸟	com.xianfengniao.vanguardbird	com.xianfengniao.vanguardbird.ts	
+闲鱼	com.taobao.idlefish	com.taobao.idlefish.ts	yes
+相册	com.coloros.gallery3d	com.coloros.gallery3d.ts	yes
+湘潭出行	com.whpe.qrcode.hunan_xiangtan	com.whpe.qrcode.hunan_xiangtan.ts	
+向日葵远程控制	com.oray.sunlogin	com.oray.sunlogin.ts	yes
+小爱视觉	com.xiaomi.scanner	com.xiaomi.scanner.ts	
+小爱音箱	com.xiaomi.mico	com.xiaomi.mico.ts	
+小白学习打印	com.xbxxhz.box	com.xbxxhz.box.ts	
+小包搜题	com.ixyzh.question	com.ixyzh.question.ts	
+小步点	run.xbud.android	run.xbud.android.ts	
+小蚕霸王餐	com.realtech.xiaocan	com.realtech.xiaocan.ts	
+小鹅通	com.xiaoe.client	com.xiaoe.client.ts	
+小恩爱	com.xiaoenai.app	com.xiaoenai.app.ts	
+小飞机网盘	com.xiaofeiji.app.disk	com.xiaofeiji.app.disk.ts	
+小黑盒	com.max.xiaoheihe	com.max.xiaoheihe.ts	
+小红帽	com.didi.live.spring	com.didi.live.spring.ts	
+小红书	com.xingin.xhs	com.xingin.xhs.ts	yes
+小卖部逆袭记	com.dz.xmbnxj	com.dz.xmbnxj.ts	
+小美智能	com.vson.smarthome	com.vson.smarthome.ts	
+小米耳机	com.mi.earphone	com.mi.earphone.ts	
+小米换机	com.miui.huanji	com.miui.huanji.ts	
+小米蓝牙扩展 (Bluetooth Extension)	com.xiaomi.bluetooth	com.xiaomi.bluetooth.ts	
+小米浏览器	com.android.browser	com.android.browser.ts	
+小米日历	com.android.calendar	com.android.calendar.ts	
+小米商城	com.xiaomi.shop	com.xiaomi.shop.ts	
+小米社区	com.xiaomi.vipaccount	com.xiaomi.vipaccount.ts	
+小米视频	com.miui.video	com.miui.video.ts	
+小米相册	com.miui.gallery	com.miui.gallery.ts	
+小米移动	com.xiaomi.mimobile	com.xiaomi.mimobile.ts	
+小米音乐	com.miui.player	com.miui.player.ts	
+小米应用商店	com.xiaomi.market	com.xiaomi.market.ts	
+小米游戏服务	com.xiaomi.gamecenter.sdk.service	com.xiaomi.gamecenter.sdk.service.ts	
+小米游戏中心	com.xiaomi.gamecenter	com.xiaomi.gamecenter.ts	
+小米有品	com.xiaomi.youpin	com.xiaomi.youpin.ts	
+小米云服务	com.miui.cloudservice	com.miui.cloudservice.ts	
+小米运动健康	com.mi.health	com.mi.health.ts	
+小牛电动	com.niu.cloud	com.niu.cloud.ts	
+小牛加速器	com.craftvpn.craft	com.craftvpn.craft.ts	
+小柿子	com.sjmly.sjmtask.xsh	com.sjmly.sjmtask.xsh.ts	
+小特	com.xiaote	com.xiaote.ts	
+小天才	com.okii.watch.global	com.okii.watch.global.ts	
+小天才	com.xtc.watch	com.xtc.watch.ts	
+小小优趣	com.ukids.client.phone	com.ukids.client.phone.ts	
+小熊油耗	com.firebear.androil	com.firebear.androil.ts	
+小熊有好货	com.xiaoxiongyhh	com.xiaoxiongyhh.ts	
+小依	com.sys.washmashine	com.sys.washmashine.ts	
+小蚁摄像机	com.ants360.yicamera	com.ants360.yicamera.ts	
+小猿口算	com.fenbi.android.leo	com.fenbi.android.leo.ts	
+小猿搜题	com.fenbi.android.solar	com.fenbi.android.solar.ts	
+小周便签	me.zhouzhuo810.zznote	me.zhouzhuo810.zznote.ts	
+小组件盒子	io.iftech.android.box	io.iftech.android.box.ts	
+携程旅行	ctrip.android.view	ctrip.android.view.ts	
+心动日常	com.youloft.icloser	com.youloft.icloser.ts	
+新大师兄影视	com.erksd.qdmk.yxml.sousou	com.erksd.qdmk.yxml.sousou.ts	
+新小财神影视	com.miaoying.appmy.cs	com.miaoying.appmy.cs.ts	
+星空视频壁纸	yyc.xk	yyc.xk.ts	
+星星充电	com.wanbangauto.chargepile	com.wanbangauto.chargepile.ts	
+星芽免费短剧	com.jz.xydj	com.jz.xydj.ts	
+星野	com.xingye.app	com.xingye.app.ts	
+星影视频	cn.nlyuming.duanju.ting	cn.nlyuming.duanju.ting.ts	
+星影视频	cn.ylkj.xingying	cn.ylkj.xingying.ts	
+星影视频	com.xsj.app	com.xsj.app.ts	
+醒图	com.xt.retouch	com.xt.retouch.ts	
+秀动	com.showstartfans.activity	com.showstartfans.activity.ts	
+学习强国	cn.xuexi.android	cn.xuexi.android.ts	
+学习通	com.chaoxing.mobile	com.chaoxing.mobile.ts	
+学小易	com.xuexiaoyi.xxy	com.xuexiaoyi.xxy.ts	
+雪球	com.xueqiu.android	com.xueqiu.android.ts	
+雪球基金	com.xueqiu.fund	com.xueqiu.fund.ts	
+迅雷	com.xunlei.downloadprovider	com.xunlei.downloadprovider.ts	
+迅游手游加速器	cn.wsds.gamemaster	cn.wsds.gamemaster.ts	
+烟花动漫	com.viva.timeplan.p5	com.viva.timeplan.p5.ts	
+央视频	com.cctv.yangshipin.app.androidp	com.cctv.yangshipin.app.androidp.ts	
+央视体育	com.cctv.cctv5ultimate	com.cctv.cctv5ultimate.ts	
+央视新闻	cn.cntvnews	cn.cntvnews.ts	
+一刻相册	com.baidu.youavideo	com.baidu.youavideo.ts	
+一起来涂色	com.xingluo.allcolor	com.xingluo.allcolor.ts	
+一淘	com.taobao.etao	com.taobao.etao.ts	
+医考帮	com.yikaobang.yixue	com.yikaobang.yixue.ts	
+移动爱家	com.cmri.universalapp	com.cmri.universalapp.ts	
+亿通行	enfc.metro	enfc.metro.ts	
+易捷加油	cn.com.hkgt.gasapp	cn.com.hkgt.gasapp.ts	
+易快报	com.hose.ekuaibao	com.hose.ekuaibao.ts	
+易视看	com.lieju.lws.escanu	com.lieju.lws.escanu.ts	
+易校园	cn.com.yunma.school.app	cn.com.yunma.school.app.ts	
+翼支付	com.chinatelecom.bestpayclient	com.chinatelecom.bestpayclient.ts	
+音乐	com.heytap.music	com.heytap.music.ts	yes
+音乐	com.tencent.qqmusiclite.universal	com.tencent.qqmusiclite.universal.ts	
+应用包管理组件	com.miui.packageinstaller	com.miui.packageinstaller.ts	
+应用宝	com.tencent.android.qqdownloader	com.tencent.android.qqdownloader.ts	
+应用汇	com.yingyonghui.market	com.yingyonghui.market.ts	
+应用商店	com.sec.android.app.samsungapps	com.sec.android.app.samsungapps.ts	
+应用中心	zte.com.market	zte.com.market.ts	
+萤石云视频	com.videogo	com.videogo.ts	
+影视	com.fongmi.android.tv	com.fongmi.android.tv.ts	
+影视仓	com.movie.store	com.movie.store.ts	
+影视大全	com.le123.ysdq	com.le123.ysdq.ts	
+影视工场	com.flttrade.flt1064trade.gong	com.flttrade.flt1064trade.gong.ts	
+永辉生活	cn.yonghui.hyd	cn.yonghui.hyd.ts	
+用药参考	com.ky.medical.reference	com.ky.medical.reference.ts	
+优酷视频	com.youku.phone	com.youku.phone.ts	
+优衣库	com.yek.android.uniqlo	com.yek.android.uniqlo.ts	
+悠洗	com.zhishan.washer	com.zhishan.washer.ts	
+邮储银行	com.yitong.mbank.psbc	com.yitong.mbank.psbc.ts	
+游民星空	com.gamersky	com.gamersky.ts	
+有道翻译官	com.youdao.translator	com.youdao.translator.ts	
+有道云笔记	com.youdao.note	com.youdao.note.ts	
+有鱼生活	com.example.youxyouy	com.example.youxyouy.ts	
+鱼泡网	io.dcloud.H576E6CC7	io.dcloud.H576E6CC7.ts	
+雨见	com.yujian.ResideMenuDemo	com.yujian.ResideMenuDemo.ts	
+语雀	com.yuque.mobile.android.app	com.yuque.mobile.android.app.ts	
+元道经纬相机	com.ydtx.camera	com.ydtx.camera.ts	
+远程协助	com.vivo.remoteassistant	com.vivo.remoteassistant.ts	
+阅读	com.heytap.reader	com.heytap.reader.ts	yes
+悦通行	com.wwwscn.yuexingbao	com.wwwscn.yuexingbao.ts	
+越牛新闻	com.cmstop.shaoxing	com.cmstop.shaoxing.ts	
+云·绝区零	com.miHoYo.cloudgames.Nap	com.miHoYo.cloudgames.Nap.ts	
+云·星穹铁道	com.miHoYo.cloudgames.hkrpg	com.miHoYo.cloudgames.hkrpg.ts	
+云·原神	com.miHoYo.cloudgames.ys	com.miHoYo.cloudgames.ys.ts	
+云班课	com.mosoink.teach	com.mosoink.teach.ts	
+云服务	com.heytap.cloud	com.heytap.cloud.ts	yes
+云空间	com.huawei.hidisk	com.huawei.hidisk.ts	
+云闪付	com.unionpay	com.unionpay.ts	
+云视通	com.jovetech.CloudSee.temp	com.jovetech.CloudSee.temp.ts	
+云听	com.shinyv.cnr	com.shinyv.cnr.ts	
+云蚁物联	com.yunyi.smartcamera	com.yunyi.smartcamera.ts	
+云运动	com.yunzhi.tiyu	com.yunzhi.tiyu.ts	
+运动世界	com.zjwh.android_wh_physicalfitness	com.zjwh.android_wh_physicalfitness.ts	
+湛庐阅读	com.cheersedu.app	com.cheersedu.app.ts	
+章鱼记账	com.shengjue.cashbook	com.shengjue.cashbook.ts	
+涨乐财富通	com.lphtsccft	com.lphtsccft.ts	
+掌上穿越火线	com.tencent.qt.sns	com.tencent.qt.sns.ts	
+掌上道聚城	com.tencent.djcity	com.tencent.djcity.ts	
+掌上公交	com.mygolbs.mybus	com.mygolbs.mybus.ts	
+掌上生活	com.cmbchina.ccd.pluto.cmbActivity	com.cmbchina.ccd.pluto.cmbActivity.ts	
+掌上英雄联盟	com.tencent.qt.qtl	com.tencent.qt.qtl.ts	
+掌通家园	com.seebaby	com.seebaby.ts	
+掌医课堂	com.zgnet.eClass	com.zgnet.eClass.ts	
+掌阅	com.chaozh.iReaderFree	com.chaozh.iReaderFree.ts	
+招商银行	cmb.pb	cmb.pb.ts	
+找靓机	com.huodao.hdphone	com.huodao.hdphone.ts	
+浙里办	com.hanweb.android.zhejiang.activity	com.hanweb.android.zhejiang.activity.ts	
+浙商银行	com.czbank.mbank	com.czbank.mbank.ts	
+真不卡	com.xiaolan.tv.chat	com.xiaolan.tv.chat.ts	
+正气	com.zhengnengliang.precepts	com.zhengnengliang.precepts.ts	
+支付宝	com.eg.android.AlipayGphone	com.eg.android.AlipayGphone.ts	yes
+芝麻粒	pansong291.xposed.quickenergy.repair	pansong291.xposed.quickenergy.repair.ts	
+芝麻粒	tkaxv7s.xposed.sesame	tkaxv7s.xposed.sesame.ts	
+芝士漫画	com.ping.cimoc	com.ping.cimoc.ts	
+知到	com.able.wisdomtree	com.able.wisdomtree.ts	
+知乎	com.zhihu.android	com.zhihu.android.ts	yes
+知乎极速版	com.zhihu.android.lite	com.zhihu.android.lite.ts	
+知天气	com.pcs.knowing_weather	com.pcs.knowing_weather.ts	
+知网文化	com.cnki.view	com.cnki.view.ts	
+直播吧	android.zhibo8	android.zhibo8.ts	
+志愿汇	com.zzw.october	com.zzw.october.ts	
+智慧北航	cn.edu.buaa.wxwork	cn.edu.buaa.wxwork.ts	
+智慧人社	com.powersi.zhrs	com.powersi.zhrs.ts	
+智慧树	com.hyww.wisdomtree	com.hyww.wisdomtree.ts	
+智慧树家长端	com.zhx.wisdomtree	com.zhx.wisdomtree.ts	
+智慧搜索	com.huawei.search	com.huawei.search.ts	
+智慧笑联	com.xiaolian.prometheus	com.xiaolian.prometheus.ts	
+智能服务	com.miui.systemAdSolution	com.miui.systemAdSolution.ts	
+智谱	com.crirp.zhipu	com.crirp.zhipu.ts	
+智校乐	com.hnjiajie.zhixiaole	com.hnjiajie.zhixiaole.ts	
+智行火车票	com.yipiao	com.yipiao.ts	yes
+中关村在线	com.zol.android	com.zol.android.ts	
+中国电信	com.ct.client	com.ct.client.ts	yes
+中国工商银行	com.icbc	com.icbc.ts	
+中国广电	com.ai.obc.cbn.app	com.ai.obc.cbn.app.ts	
+中国建设银行	com.chinamworld.main	com.chinamworld.main.ts	
+中国军号	cn.mil.junhao	cn.mil.junhao.ts	
+中国联通	com.sinovatech.unicom.ui	com.sinovatech.unicom.ui.ts	yes
+中国农业银行	com.android.bankabc	com.android.bankabc.ts	
+中国人保	com.cloudpower.netsale.activity	com.cloudpower.netsale.activity.ts	
+中国移动	com.greenpoint.android.mc10086.activity	com.greenpoint.android.mc10086.activity.ts	
+中国移动河南	com.xinhang.mobileclient	com.xinhang.mobileclient.ts	
+中国移动江苏	com.jsmcc	com.jsmcc.ts	
+中国移动云盘	com.chinamobile.mcloud	com.chinamobile.mcloud.ts	
+中国银行	com.chinamworld.bocmbci	com.chinamworld.bocmbci.ts	
+中国邮政	com.wisentsoft.chinapost.android	com.wisentsoft.chinapost.android.ts	
+中信银行	com.ecitic.bank.mobile	com.ecitic.bank.mobile.ts	
+中羽在线	com.badmintoncn.bbs	com.badmintoncn.bbs.ts	
+主题	com.hihonor.android.thememanager	com.hihonor.android.thememanager.ts	
+主题壁纸	com.android.thememanager	com.android.thememanager.ts	
+主题商店	com.heytap.themestore	com.heytap.themestore.ts	yes
+转转	com.wuba.zhuanzhuan	com.wuba.zhuanzhuan.ts	
+追剧达人	com.sjm.luobo	com.sjm.luobo.ts	
+追剧达人	com.whale.whaleshop.ced	com.whale.whaleshop.ced.ts	
+追剧喵	com.bide.haoyoukan.buhaokan.kanbukan.hiiik	com.bide.haoyoukan.buhaokan.kanbukan.hiiik.ts	
+追漫大全	com.mj.mjyd	com.mj.mjyd.ts	
+淄博出行	com.pandabus.android.zb	com.pandabus.android.zb.ts	
+子腾园	com.zmsoft.forwatch	com.zmsoft.forwatch.ts	
+自动点击器	com.zidongdianji	com.zidongdianji.ts	
+自考笔果题库	com.dep.biguo	com.dep.biguo.ts	
+自如	com.ziroom.ziroomcustomer	com.ziroom.ziroomcustomer.ts	
+最右	cn.xiaochuankeji.tieba	cn.xiaochuankeji.tieba.ts	yes
+最准天气	com.doudoubird.weather	com.doudoubird.weather.ts	
+作业帮	com.baidu.homework	com.baidu.homework.ts	
+作业帮家长版	com.zuoyebang.knowledge	com.zuoyebang.knowledge.ts	
+作业精灵	com.pcncn.jj	com.pcncn.jj.ts	
